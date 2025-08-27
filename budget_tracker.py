@@ -393,7 +393,7 @@ def main():
         user = User("Alice")
         budget_mgr = BudgetManager(user)
         report_gen = ReportGenerator(budget_mgr)
-        advisor = InvestmentAdvisor(budget_mgr, api_key="AR211YAAO9ZZJY7W")
+        advisor = InvestmentAdvisor(budget_mgr, api_key="NAK7VBRNTSWPE0CT")
 
         # Interactive loop
         while True:
