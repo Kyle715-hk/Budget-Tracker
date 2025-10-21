@@ -78,4 +78,4 @@ Deployment on Streamlit Cloud: Set secrets in UI, use requirements.txt for depen
 
 License
 MIT License. See LICENSE file for details.
-This project highlights my proficiency in Python (Pandas, NumPy, Scikit-learn), SQL, ML (regression, ARIMA), and deployment, as per my resume. For recruiters: Contact wangtikchan715@gmail.com or LinkedIn (linkedin.com/in/wang-tik-chan) for discussions.
+This project highlights my proficiency in Python (Pandas, NumPy, Scikit-learn), SQL, ML (regression, ARIMA), and deployment, as per my resume. For recruiters: Contact wangtikchan715@gmail.com or [LinkedIn](https://www.linkedin.com/in/wang-tik-chan) for discussions.
