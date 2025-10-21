@@ -10,12 +10,12 @@ Investment Advice: ML-based portfolio allocation using linear regression and ARI
 ETL and SQL Queries: Load data from CSV and perform ad-hoc queries on transactions.
 Forecast Returns: ARIMA for time-series prediction of returns.
 
-ML Forecasting Examples
+__ML Forecasting Examples__
 
 ARIMA for Expense Forecasting: Predicts future monthly expenses based on historical transactions. Example: If historical expenses are [100, 150, 120], ARIMA might forecast the next as 130 (adjusts for trends).
 Linear Regression for Multivariate Forecasting: Predicts expenses based on factors like category count or month. Example: With training data [[month=1, categories=2, expense=100], [month=2, categories=3, expense=150]], it might predict expense=130 for month=3, categories=2.
 
-Installation
+__Installation__
 
 Clone the repository:
 textgit clone https://github.com/Kyle715-hk/Budget_Tracker-.git
@@ -33,7 +33,7 @@ Obtain a free API key from Alpha Vantage.
 
 
 
-Running the App
+__Running the App__
 Command-Line Menu Version (Primary)
 This version provides a text-based interface for core functionality, ensuring stability and ease of use.
 
@@ -69,13 +69,13 @@ Open the local URL (e.g., http://localhost:8501) in your browser.
 Use the sidebar menu to add transactions, generate reports, etc.
 Live Demo: Budget Tracker Streamlit App (deployed for easy access).
 
-Troubleshooting
+__Troubleshooting__
 
 Invalid Transaction: Ensure amount > 0. For expenses, add income first (balance check). Update add_expense in code to relax if needed.
 SQLite ProgrammingError: Use thread-safe connections in Streamlit (e.g., st.connection for SQLite).
 API Errors: Verify your Alpha Vantage key is valid (rate-limited free tier).
 Deployment on Streamlit Cloud: Set secrets in UI, use requirements.txt for dependencies.
 
-License
+__License__
 MIT License. See LICENSE file for details.
 This project highlights my proficiency in Python (Pandas, NumPy, Scikit-learn), SQL, ML (regression, ARIMA), and deployment, as per my resume. For recruiters: Contact wangtikchan715@gmail.com or [LinkedIn](https://www.linkedin.com/in/wang-tik-chan) for discussions.
