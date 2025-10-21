@@ -65,7 +65,7 @@ This version provides an interactive web interface for easy use.
 Run the app:
 textstreamlit run app.py
 
-Open the local URL (e.g., http://localhost:8501) in your browser.
+
 Use the sidebar menu to add transactions, generate reports, etc.
 Live Demo: Budget Tracker Streamlit App (deployed for easy access).
 
