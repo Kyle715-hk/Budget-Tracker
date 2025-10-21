@@ -1,6 +1,6 @@
 # Budget-Tracker
 Budget Tracker App
-A Python-based application for tracking finances, managing budgets, and providing ML-driven investment advice. This project showcases my data science skills in Python programming, SQL database management, machine learning (linear regression and ARIMA for forecasting), and data visualization, as applied in fintech contexts. Building on my EV Adoption analysis (k-means clustering and regression), it demonstrates practical data analytics for financial insights—relevant to the Rev-celerator Graduate Programme 2026: Data Scientist and Analyst at Revolut.
+A Python-based application for tracking finances, managing budgets, and providing ML-driven investment advice. This project showcases my data science skills in Python programming, SQL database management, machine learning (linear regression and ARIMA for forecasting), and data visualization, as applied in fintech contexts. Building on my EV Adoption analysis (k-means clustering and regression), it demonstrates practical data analytics for financial insights.
 Features
 
 Transaction Tracking: Add income and expenses with category and date logging.
